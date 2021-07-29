@@ -1,6 +1,11 @@
 # morse_translator
 
 A new Flutter application.
+Created by-->
+Utkarsha Mokashi
+Krithika Naidu
+Aditi Singh Bisht
+Delzeen Machhi
 
 Here are some screenshots of the application in light and dark mode-->
 
